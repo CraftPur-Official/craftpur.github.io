@@ -177,7 +177,7 @@ body {
 
 /* Footer END */
 
-@media (max-width: 800px) {
+@media (max-width: 768px) {
     .nav-bar a {
         display: none;
     }
