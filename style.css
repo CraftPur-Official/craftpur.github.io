@@ -399,6 +399,7 @@ body {
         text-transform: uppercase;
         color: #ffffff;
         border-radius: 2px;
+        font-size: 13px;
     }
 
     .home-footer .mobile-footer a:active {
