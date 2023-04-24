@@ -202,7 +202,7 @@ body {
 
 
 .FreeStyleFrost .bg-pic {
-    background-image: url('./CraftPur-img/');
+    background-image: url('./CraftPur-img/frost_bg_pic.png');
 }
 
 .FreeStyleFrost .upper-color {
@@ -210,7 +210,7 @@ body {
 }
 
 .KaifXGAMING .bg-pic {
-    background-image: url('./CraftPur-img/kaif_bg_pic1.png');
+    background-image: url('./CraftPur-img/kaif_bg_pic.png');
 }
 
 .KaifXGAMING .upper-color {
