@@ -212,12 +212,13 @@ body {
 
     .home-footer .mobile-footer a {
         text-decoration: none;
-        padding: 10px 20px;
+        padding: 10px 10px;
         font-family: 'Poppins', sans-serif;
         font-weight: 500;
         text-transform: uppercase;
         color: #ffffff;
         border-radius: 2px;
+        font-size: 13px;
     }
 
     .home-footer .mobile-footer a:active {
