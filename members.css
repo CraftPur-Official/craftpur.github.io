@@ -163,13 +163,17 @@ body {
     left: 50%;
     transform: translate(-50%);
     margin-top: 30px;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
-.member-container .upper-color .bg-pic img {
-    transform: translate(4px,7px);
-    width: 90px;
+.KaifXGAMING .bg-pic {
+    background-image: url('./CraftPur-img/kaif_bg_pic.png');
 }
 
+.FreeStyleFrost .bg-pic {
+    background-image: url('./CraftPur-img/frost_bg_pic.png');
+}
 
 .card .name {
     position: absolute;
