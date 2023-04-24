@@ -339,8 +339,6 @@ body {
         display: block;
         height: 450px;
         background-position: 0%;
-        margin-left: auto;
-        margin-right: auto;
     }
 
     .home-main img {
@@ -351,6 +349,7 @@ body {
     }
 
     .home-main .descrip p {
+        font-size: 15px;
         padding-top: 40px;
     }
 
@@ -364,6 +363,10 @@ body {
         display: flex;
         height: 450px;
         background-position: 40%;
+    }
+
+    .home-main-2 .list-desc .lists li {
+        font-size: 15px;
     }
 
     /* home 3 */
@@ -393,7 +396,7 @@ body {
 
     .home-footer .mobile-footer a {
         text-decoration: none;
-        padding: 7px 10px;
+        padding: 10px 10px;
         font-family: 'Poppins', sans-serif;
         font-weight: 500;
         text-transform: uppercase;
