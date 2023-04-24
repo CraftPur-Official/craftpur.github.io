@@ -156,18 +156,19 @@ body {
 }
 
 .empty {
-    background-color: rgb(150, 150, 150);
+    background-color: rgba(181, 181, 181, 0.539);
 }
 
 .empty p {
-    color: #ececec;
+    color: #dadada;
     font-family: 'Noto Sans', sans-serif;
     font-weight: 600;
-    font-size: 25px;
+    font-size: 23px;
     margin: 0%;
     text-align: center;
     padding-bottom: 50%;
     padding-top: 59%;
+    text-transform: uppercase;
 }
 
 
