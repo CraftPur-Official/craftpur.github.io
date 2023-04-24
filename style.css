@@ -339,6 +339,8 @@ body {
         display: block;
         height: 450px;
         background-position: 0%;
+        margin-left: auto;
+        margin-right: auto;
     }
 
     .home-main img {
