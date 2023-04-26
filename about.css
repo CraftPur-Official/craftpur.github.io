@@ -99,7 +99,7 @@ body {
     position: relative;
     background-color: #ffffff;
     width: 95%;
-    height: fit-content;
+    height: auto;
     margin: 10px auto;
     justify-content: center;
     border-radius: 5px;
