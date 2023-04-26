@@ -161,6 +161,10 @@ code {
 .rules-container code {
     font-size: 16px;
 }
+
+.mobile-code-part {
+    font-size: 16px;
+}
 /* about-main END */
 
 
@@ -273,6 +277,10 @@ code {
 
     .content-rules {
         font-size: 18px;
+    }
+
+    .mobile-code-part {
+        font-size: 12px;
     }
 
     .home-footer {
