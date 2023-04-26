@@ -281,17 +281,13 @@ body {
     padding: 5px 25px;
 }
 
-
-.card .like-btn {
-    display: block;
-}
-
 .card .fa-heart {
     display: flex;
     justify-content: center;
     font-size: 30px;
     cursor: pointer;
     transition: all 0.1s ease;
+    color: #ababab;
 }
 
 .card .fa-heart:active {
