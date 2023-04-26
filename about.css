@@ -157,14 +157,14 @@ code {
     border-radius: 5px;
 }
 
-
 .rules-container code {
     font-size: 16px;
 }
 
-.mobile-code-part {
+.container .mobile-code-part {
     font-size: 16px;
 }
+
 /* about-main END */
 
 
@@ -279,7 +279,7 @@ code {
         font-size: 18px;
     }
 
-    .mobile-code-part {
+    .container .mobile-code-part {
         font-size: 12px;
     }
 
